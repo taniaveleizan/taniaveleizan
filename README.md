@@ -9,7 +9,6 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Sobre Mi
 
-
 <br><br>
 
 - :mortar_board: Formación en Backend con especialización en tecnologías como Java, Node.js y bases de datos NoSQL.
