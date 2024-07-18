@@ -9,7 +9,7 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Sobre Mi
 
-<br><br>
+<br>
 
 - :mortar_board: Formación en Backend con especialización en tecnologías como Java, Node.js y bases de datos NoSQL.
 - :books: Autodidacta, siempre buscando mejorar mis habilidades a través de recursos en línea.
@@ -20,13 +20,15 @@
 
 
 ## 🛠️ Skills
-<br><br>
+<br>
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
 - **Backend:** Java, Spring Boot, Node.js, Express, TypeScript, JavaScript, Serverless
 - **Bases de Datos:** PostgreSQL, MySQL, MongoDB, DynamoDB
 - **Herramientas:** Git, Open Project, Docker
 - **Métodologías Ágiles Scrum**
 - **Habilidades Adicionales:** Autodidacta, rápida adaptación, trabajo en equipo, , Inglés intermedio (B2)
+
+<br>
 
 <p align="center"> 
 	<a href="https://skillicons.dev">
@@ -50,7 +52,7 @@
 </p>
 
 ## Contacto
-<br><br>
+<br>
 <p align="center">
 	<a href="mailto:taninaveleizan@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/taniaveleizan"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
