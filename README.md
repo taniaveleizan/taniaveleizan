@@ -28,7 +28,7 @@
 - **Métodologías Ágiles Scrum**
 - **Habilidades Adicionales:** Autodidacta, rápida adaptación, trabajo en equipo, , Inglés intermedio (B2)
 
-<br>
+<br><br>
 
 <p align="center"> 
 	<a href="https://skillicons.dev">
