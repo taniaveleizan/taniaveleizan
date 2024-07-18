@@ -20,7 +20,7 @@
 
 
 ## 🛠️ Skills
-
+<br><br>
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
 - **Backend:** Java, Spring Boot, Node.js, Express, TypeScript, JavaScript, Serverless
 - **Bases de Datos:** PostgreSQL, MySQL, MongoDB, DynamoDB
@@ -50,12 +50,13 @@
 </p>
 
 ## Contacto
+<br><br>
 <p align="center">
 	<a href="mailto:taninaveleizan@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/taniaveleizan"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/taniaveleizan/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-
+<br><br>
 <p>Gracias por visitar mi perfil de GitHub! No dudes en contactarme si tienes alguna pregunta o si quieres colaborar en algún proyecto.</p>
 
