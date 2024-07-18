@@ -21,16 +21,23 @@
 
 ## 🛠️ My Skills
 
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
+- **Backend:** Java, Spring Boot, Node.js, Express, TypeScript, JavaScript, Serverless
+- **Bases de Datos:** PostgreSQL, MySQL, MongoDB, DynamoDB
+- **Herramientas:** Git, Open Project, Docker
+- **Métodos Ágiles:** Experiencia en Scrum
+- **Habilidades Adicionales:** Autodidacta, rápida adaptación, trabajo en equipo, , Inglés intermedio (B2)
+
 <p align="center"> 
 	<a href="https://skillicons.dev">
-    		<img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css,bootstrap" />
+    		<img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css,bootstrap,nodejs,npm,express,spring,sequelize" />
  	</a>
 </p>
-<p align="center"> 
+<!--<p align="center"> 
 	<a href="https://skillicons.dev">
     		<img src="https://skillicons.dev/icons?i=nodejs,npm,express,spring,sequelize" />
  	</a>
-</p>
+</p>-->
 <p align="center"> 
 	<a href="https://skillicons.dev">
     		<img src="https://skillicons.dev/icons?i=aws,postgres,mysql,mongodb" />
