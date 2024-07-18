@@ -21,12 +21,13 @@
 
 ## 🛠️ Skills
 <br>
+
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
 - **Backend:** Java, Spring Boot, Node.js, Express, TypeScript, JavaScript, Serverless
 - **Bases de Datos:** PostgreSQL, MySQL, MongoDB, DynamoDB
 - **Herramientas:** Git, Open Project, Docker
 - **Métodologías Ágiles Scrum**
-- **Habilidades Adicionales:** Autodidacta, rápida adaptación, trabajo en equipo, , Inglés intermedio (B2)
+- **Habilidades Adicionales:** Autodidacta, rápida adaptación, trabajo en equipo, Inglés intermedio (B2)
 
 <br><br>
 
