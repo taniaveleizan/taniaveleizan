@@ -10,7 +10,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Sobre Mi
 
 <br>
-
+- :woman_student: Actualmente estudiando Computer Science en Open Source Society University (OSSU).
 - :mortar_board: Formación en Backend con especialización en tecnologías como Java, Node.js y bases de datos NoSQL.
 - :books: Autodidacta, siempre buscando mejorar mis habilidades a través de recursos en línea.
 - :briefcase: Recientemente, fui Backend Developer Trainee en InTech Mom LATAM, donde contribuí al desarrollo de módulos y creación de APIs.
