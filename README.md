@@ -11,7 +11,7 @@
 
 <br>
 
-- :woman_student: Actualmente estudiando Computer Science en Open Source Society University (OSSU).
+- :woman_student: Actualmente estudiando Analista Programador en UAI.
 - :mortar_board: Formación en Backend con especialización en tecnologías como Java, Node.js y bases de datos NoSQL.
 - :books: Autodidacta, siempre buscando mejorar mis habilidades a través de recursos en línea.
 - :briefcase: Recientemente, fui Backend Developer Trainee en InTech Mom LATAM, donde contribuí al desarrollo de módulos y creación de APIs.
@@ -24,10 +24,9 @@
 ## 🛠️ Skills
 <br>
 
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
-- **Backend:** Java, Spring Boot, Node.js, Express, TypeScript, JavaScript, Serverless
+- **Lenguajes & Frameworks:** HTML5, CSS3, JavaScript, Bootstrap, Java, Spring Boot, Node.js, Express, TypeScript, JavaScript, Serverless, C, C#
 - **Bases de Datos:** PostgreSQL, MySQL, MongoDB, DynamoDB
-- **Herramientas:** Git, Open Project, Docker
+- **Herramientas:** Git, Open Project
 - **Métodologías Ágiles Scrum**
 - **Habilidades Adicionales:** Autodidacta, rápida adaptación, trabajo en equipo, Inglés intermedio (B2)
 
